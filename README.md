@@ -23,7 +23,7 @@ https://alejocald.github.io/Data-Science-Alura/
   - `numpy`
 - **Tipado y documentación**:
   - `typing`
- **Github Pages**
+- **Github Pages**
 
 ---
 
