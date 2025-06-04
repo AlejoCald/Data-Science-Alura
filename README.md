@@ -5,16 +5,25 @@ Primer desafío de Data Science en Alura Latam
 Este proyecto tiene como objetivo ayudar al Sr. Juan a decidir qué tienda de su cadena **Alura Store** debería vender para iniciar un nuevo emprendimiento. El análisis se basa en datos históricos de ventas, rendimiento por categorías, productos más y menos vendidos, calificaciones de usuarios y costos promedio de envío.
 
 ---
+## 📄 Visualización del Informe
 
+El archivo [`index.html`](https://AlejoCald.github.io/Data-Science-Alura/index.html) contiene una versión del informe generado con **Jupyter Notebook**, exportado como HTML. Fue subido a GitHub Pages para facilitar su visualización online.
+
+### 🔗 Accede al informe visual
+
+👉 Puedes ver la versión aquí:  
+https://alejocald.github.io/Data-Science-Alura/
+---
 ## 🧠 Tecnologías y herramientas utilizadas
 
 - **Python 3.10+**
-- **Google Colab**
+- **Jutpiter Notebook / Google Colab**
 - **Bibliotecas de visualización**:
   - `matplotlib`
   - `numpy`
 - **Tipado y documentación**:
   - `typing`
+ **Github Pages**
 
 ---
 
